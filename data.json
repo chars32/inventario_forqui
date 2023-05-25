@@ -1,0 +1,517 @@
+{
+  "aditivos": [
+    {
+      "NOMENCLATURA": 9910,
+      "DESCRIPCION": "Surfacpol 9010",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 0,
+      "UNIDAD": "KGS"
+    },
+    {
+      "NOMENCLATURA": "A-1487",
+      "DESCRIPCION": "A-1487",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 200,
+      "SALIDAS": 0,
+      "STOCK": 200,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Aceite Mineral",
+      "DESCRIPCION": "Aceite Mineral",
+      "EXISTENCIA INICIAL": 145,
+      "ENTRADAS": 1000,
+      "SALIDAS": 836,
+      "STOCK": 358,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Acido Acetico",
+      "DESCRIPCION": "Acido Acetico",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 50,
+      "SALIDAS": 40,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Acido Clorhidrico",
+      "DESCRIPCION": "Acido Clorhidrico",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 60,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "A-Emulsifier",
+      "DESCRIPCION": "A-Emulsifier",
+      "EXISTENCIA INICIAL": 140,
+      "FECHA CAPTURA": 44594,
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 1200,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "AF-4",
+      "DESCRIPCION": "AF-4",
+      "EXISTENCIA INICIAL": 200,
+      "ENTRADAS": 0,
+      "SALIDAS": 100,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "AL-X2",
+      "DESCRIPCION": "AL-X2",
+      "ENTRADAS": 0,
+      "SALIDAS": 1000,
+      "STOCK": 792,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "AL-X2 HB",
+      "DESCRIPCION": "AL-X2 HB",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 4000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "AMS-F",
+      "DESCRIPCION": "ACIDO SINTETICO",
+      "ENTRADAS": 200,
+      "SALIDAS": 0,
+      "STOCK": 130,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "AQ-DF",
+      "DESCRIPCION": "AQ-DF",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 200,
+      "SALIDAS": 0,
+      "STOCK": 155,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "BASE ROWFLUID",
+      "DESCRIPCION": "BASE ROWFLUID",
+      "EXISTENCIA INICIAL": 2000,
+      "ENTRADAS": 3778,
+      "SALIDAS": 5740,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Base RPM",
+      "DESCRIPCION": "Base RPM",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "DEF-I",
+      "DESCRIPCION": "DEF-I",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "DEF-I",
+      "DESCRIPCION": "DEF-1",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 1000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "DEF-II",
+      "DESCRIPCION": "DEF-II",
+      "EXISTENCIA INICIAL": 1000,
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 1000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "DFOAMER-F",
+      "DESCRIPCION": "D-FOAMER",
+      "EXISTENCIA INICIAL": 30,
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 30,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "EDTA",
+      "DESCRIPCION": "Ácido Etilendiaminotetraacétilco",
+      "EXISTENCIA INICIAL": 0,
+      "FECHA CAPTURA": 44704,
+      "ENTRADAS": 25,
+      "SALIDAS": 0,
+      "STOCK": 25,
+      "UNIDAD": "KGS"
+    },
+    {
+      "NOMENCLATURA": "FDA-15",
+      "DESCRIPCION": "FDA-15",
+      "EXISTENCIA INICIAL": 1300,
+      "ENTRADAS": 7000,
+      "SALIDAS": 9035,
+      "STOCK": 1048,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FDA-15 HB",
+      "DESCRIPCION": "FDA-15 HB",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 7600,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-1",
+      "DESCRIPCION": "Acido Dodecilbence Sulfonico",
+      "EXISTENCIA INICIAL": 1960,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 83800,
+      "SALIDAS": 75909,
+      "STOCK": 8735,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-10",
+      "DESCRIPCION": "Nonifenol 10 M",
+      "EXISTENCIA INICIAL": 38,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 18400,
+      "SALIDAS": 15349,
+      "STOCK": 3050,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-11",
+      "DESCRIPCION": "Xileno",
+      "EXISTENCIA INICIAL": 200,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 50600,
+      "SALIDAS": 44210,
+      "STOCK": 3449,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-15",
+      "DESCRIPCION": "Surfacpol TA-15",
+      "EXISTENCIA INICIAL": 1960,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 110600,
+      "SALIDAS": 96591,
+      "STOCK": 12800,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-18",
+      "DESCRIPCION": "Tensapol 9429",
+      "EXISTENCIA INICIAL": 230,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 7800,
+      "SALIDAS": 5760,
+      "STOCK": 2030,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-19",
+      "DESCRIPCION": "Tensapol 9955",
+      "EXISTENCIA INICIAL": 90,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 24900,
+      "SALIDAS": 19358,
+      "STOCK": 3995,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-21",
+      "DESCRIPCION": "G3300",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 2800,
+      "SALIDAS": 1040,
+      "STOCK": 1625,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-3",
+      "DESCRIPCION": "Marvionol",
+      "ENTRADAS": 200,
+      "SALIDAS": 70,
+      "STOCK": 150,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-4",
+      "DESCRIPCION": "Surfacpol 904W",
+      "EXISTENCIA INICIAL": 800,
+      "FECHA CAPTURA": 44621,
+      "ENTRADAS": 12600,
+      "SALIDAS": 11424,
+      "STOCK": 3025,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-7",
+      "DESCRIPCION": "Isopropanol",
+      "EXISTENCIA INICIAL": 0,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 11200,
+      "SALIDAS": 8605,
+      "STOCK": 2000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-8",
+      "DESCRIPCION": "Metanol",
+      "EXISTENCIA INICIAL": 1570,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 143000,
+      "SALIDAS": 136018,
+      "STOCK": 2480,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQ-9",
+      "DESCRIPCION": "Monoetilenglicol",
+      "EXISTENCIA INICIAL": 540,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 35400,
+      "SALIDAS": 32601,
+      "STOCK": 755,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQO-12",
+      "DESCRIPCION": "Oxido de Amina",
+      "EXISTENCIA INICIAL": 76,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 10570,
+      "SALIDAS": 6915,
+      "STOCK": 2310,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQSM-22",
+      "DESCRIPCION": "Eter Monobutilico",
+      "EXISTENCIA INICIAL": 0,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 20200,
+      "SALIDAS": 21778,
+      "STOCK": 1000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "FQX-13",
+      "DESCRIPCION": "Stepanate SXS",
+      "EXISTENCIA INICIAL": 400,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 400,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Goma Xantana",
+      "DESCRIPCION": "Goma Xantana",
+      "ENTRADAS": 50,
+      "SALIDAS": 48,
+      "STOCK": 2,
+      "UNIDAD": "KGS"
+    },
+    {
+      "NOMENCLATURA": "Goma Xantana Liquida",
+      "DESCRIPCION": "Goma Xantana Liquida",
+      "ENTRADAS": 2000,
+      "SALIDAS": 0,
+      "STOCK": 2000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "ICO",
+      "DESCRIPCION": "ICO",
+      "EXISTENCIA INICIAL": 200,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 45000,
+      "SALIDAS": 37300,
+      "STOCK": 3952,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "ICO-II",
+      "DESCRIPCION": "ICO-II",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "IFC",
+      "DESCRIPCION": "IFC",
+      "ENTRADAS": 2000,
+      "SALIDAS": 0,
+      "STOCK": 1542,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Quelapol 39",
+      "DESCRIPCION": "Quelapol 39",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 200,
+      "SALIDAS": 0,
+      "STOCK": 175,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Quelapol TFA-E",
+      "DESCRIPCION": "Quelapol TFA-E",
+      "EXISTENCIA INICIAL": 0,
+      "ENTRADAS": 200,
+      "SALIDAS": 0,
+      "STOCK": 165,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Rowfluid",
+      "DESCRIPCION": "Rowfluid",
+      "ENTRADAS": 0,
+      "SALIDAS": 80,
+      "STOCK": 4000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Rowfluid HB",
+      "DESCRIPCION": "Rowfluid HB",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 8830,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "ROW-W",
+      "DESCRIPCION": "ROW-W",
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 3000,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "RPM",
+      "DESCRIPCION": "RPM",
+      "EXISTENCIA INICIAL": 100,
+      "FECHA CAPTURA": 44495,
+      "ENTRADAS": 0,
+      "SALIDAS": 800,
+      "STOCK": 10,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SCALEFLOW",
+      "DESCRIPCION": "SCALEFLOW",
+      "ENTRADAS": 0,
+      "SALIDAS": 150,
+      "STOCK": 70,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SOLUCION 9955",
+      "DESCRIPCION": "SOLUCION 9955",
+      "ENTRADAS": 400,
+      "SALIDAS": 2320,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SOLUCION AMINA",
+      "DESCRIPCION": "SOLUCION AMINA",
+      "EXISTENCIA INICIAL": 740,
+      "ENTRADAS": 0,
+      "SALIDAS": 0,
+      "STOCK": 130,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SOLUCION BASE AMONIO",
+      "DESCRIPCION": "SOLUCION BASE AMONIO",
+      "ENTRADAS": 0,
+      "SALIDAS": 1350,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SOLUCION FQ-4",
+      "DESCRIPCION": "SOLUCION FQ-4",
+      "ENTRADAS": 2500,
+      "SALIDAS": 2000,
+      "STOCK": 0,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "Thinner",
+      "DESCRIPCION": "Thinner",
+      "EXISTENCIA INICIAL": 0,
+      "FECHA CAPTURA": 44553,
+      "ENTRADAS": 250,
+      "SALIDAS": 0,
+      "STOCK": 200,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "TOLUENO",
+      "DESCRIPCION": "TOLUENO",
+      "ENTRADAS": 20,
+      "SALIDAS": 0,
+      "STOCK": 20,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "TS-300",
+      "DESCRIPCION": "TS-300",
+      "ENTRADAS": 2000,
+      "SALIDAS": 0,
+      "STOCK": 920,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "SILICATO",
+      "DESCRIPCION": "SILICATO DE SODIO",
+      "ENTRADAS": 200,
+      "SALIDAS": 16,
+      "STOCK": 184,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "CLORITO DE SODIO",
+      "DESCRIPCION": "CLORITO DE SODIO",
+      "ENTRADAS": 1000,
+      "SALIDAS": 0,
+      "STOCK": 1000,
+      "UNIDAD": "KGS"
+    },
+    {
+      "NOMENCLATURA": "PEROXIDO",
+      "DESCRIPCION": "PEROXIDO DE HIDROGENO",
+      "ENTRADAS": 60,
+      "SALIDAS": 0,
+      "STOCK": 60,
+      "UNIDAD": "LITROS"
+    },
+    {
+      "NOMENCLATURA": "MDA-F",
+      "DESCRIPCION": "METILDIETILAMINOETANOL",
+      "ENTRADAS": 1400,
+      "SALIDAS": 1000,
+      "STOCK": 400,
+      "UNIDAD": "LITROS"
+    }
+  ]
+}
