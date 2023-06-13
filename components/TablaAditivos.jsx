@@ -1,11 +1,11 @@
+// Este componente dibja la tabla de aditivos y llena
+// los campos con los datos que se le pasen por el parametro
 function TablaAditivos({ dataAditivosFilter }) {
     const headerTitleInventario = [
         "NOMENCLATURA",
         "DESCRIPCION",
         "STOCK",
         "UNIDAD"]
-
-    // console.log(dataAditivosFilter)
 
     return (
         <table class="table table-hover">

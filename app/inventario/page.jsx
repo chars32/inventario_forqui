@@ -1,6 +1,4 @@
 import InventarioComponent from '@/components/InventarioComponent'
-import SearchBar from '@/components/SearchBar'
-import TablaAditivos from '@/components/TablaAditivos'
 import { aditivos } from '@/data.json'
 
 // Funcion finge obtener los datos de una api (data.json)
@@ -23,9 +21,6 @@ async function inventario() {
       <div className="w-75 m-auto py-5">
 
         <InventarioComponent dataAditivos={dataAditivos} />
-
-        {/* <SearchBar dataAditivosFilter={dataAditivosFilter} />
-        <TablaAditivos dataAditivosFilter={dataAditivosFilter} /> */}
 
       </div>
 
