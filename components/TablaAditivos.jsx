@@ -1,6 +1,9 @@
 'use client'
 
 import { useState } from 'react';
+
+import { PencilSquare, Trash } from 'react-bootstrap-icons'
+
 import ModalAditivos from "./ModalAditivos";
 
 // Este componente dibuja la tabla de aditivos 
@@ -44,12 +47,24 @@ function TablaAditivos({ dataAditivosFilter }) {
                 <td>
                   <button
                     type="button"
-                    class="btn btn-success"
+                    class="btn btn-success mx-1"
                     onClick={() => {
                       setAditivoItem(aditivo)
                       setShowModal(true)
                     }}
-                  >Editar</button>
+                  >
+                    <PencilSquare />
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-danger mx-1"
+                    onClick={() => {
+                      setAditivoItem(aditivo)
+                      setShowModal(true)
+                    }}
+                  >
+                    <Trash />
+                  </button>
                 </td>
               </tr>
             ))
