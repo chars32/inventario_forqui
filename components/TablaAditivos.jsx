@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-import { PencilSquare, Trash } from 'react-bootstrap-icons'
+import { PencilSquare } from 'react-bootstrap-icons'
 
 import ModalAditivos from "./ModalAditivos";
 
@@ -17,7 +17,8 @@ function TablaAditivos({ dataAditivosFilter }) {
     "NOMENCLATURA",
     "DESCRIPCION",
     "STOCK",
-    "UNIDAD"]
+    "UNIDAD",
+    "ACCIONES"]
 
   return (
     <>
@@ -54,16 +55,6 @@ function TablaAditivos({ dataAditivosFilter }) {
                     }}
                   >
                     <PencilSquare />
-                  </button>
-                  <button
-                    type="button"
-                    class="btn btn-danger mx-1"
-                    onClick={() => {
-                      setAditivoItem(aditivo)
-                      setShowModal(true)
-                    }}
-                  >
-                    <Trash />
                   </button>
                 </td>
               </tr>
