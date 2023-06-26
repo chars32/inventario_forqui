@@ -1,3 +1,6 @@
+// TODO al recibir inputSearchBar con algun valor, filtrar 
+// la lista de dataAditivosFilter.
+// En el componente SearchBar esta el codigo para filtrar
 'use client'
 
 import { useState } from 'react';
