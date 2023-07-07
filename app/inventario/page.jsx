@@ -1,4 +1,4 @@
-import InventarioComponent from '@/components/InventarioComponent'
+import InventarioComponent from '@/components/Inventario/InventarioComponent'
 
 function inventario() {
   return (

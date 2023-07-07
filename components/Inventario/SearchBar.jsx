@@ -1,10 +1,6 @@
-import { useEffect, useState } from "react";
-
 function SearchBar({ setInputSearchBar }) {
 
-  const [filteredData, setFilteredData] = useState([])
-
-  // Funcuón que setea el searchInput
+  // Función que setea el searchInput
   const handleSearchInput = (e) => {
     setInputSearchBar(e.target.value)
   }
