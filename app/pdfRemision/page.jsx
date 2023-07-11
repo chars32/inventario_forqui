@@ -9,7 +9,7 @@ function PageRemision() {
         <Page size='A4'>
           {/* Este es el View que será el encabezado.
             TODO: Intentar hacer un componente ya que se usara en otros futuros pdf */}
-          <View style={{ margin: '10% 5%', border: '1px solid black', display: 'flex', flexDirection: 'row', height: '9%' }}>
+          <View style={{ margin: '10% 5% 1% 5%', border: '1px solid black', display: 'flex', flexDirection: 'row', height: '9%' }}>
             <Image
               source={'https://i.ibb.co/sKVSXtV/logo-act.png'}
               style={{ width: '15%', padding: '2%', borderRight: '1px solid black' }}
@@ -48,6 +48,25 @@ function PageRemision() {
                   <Text>Folio</Text>
                   <Text>HM0623039</Text>
                 </View>
+              </View>
+            </View>
+          </View>
+          {/* Datos del cliente */}
+          <View style={{ margin: '0 5% 0 5%', border: '1px solid black', fontSize: '10px' }}>
+            <View style={{ display: 'flex', flexDirection: 'row' }}>
+              <View style={{ width: '81.5%', display: 'flex', flexDirection: 'row' }}>
+                <View style={{ width: '30%' }}>
+                  <Text>Cliente</Text>
+                </View>
+                <View style={{ width: '25.5%' }}>
+                  <Text>Orden de Compra</Text>
+                </View>
+                <View style={{ width: '44.5%' }}>
+                  <Text>Dirección de entrega</Text>
+                </View>
+              </View>
+              <View style={{ width: '18.5%' }}>
+                <Text>Fecha</Text>
               </View>
             </View>
           </View>
